@@ -1,0 +1,16 @@
+.features > h3 {
+    font-family: Roboto;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+.features > p {
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}   

@@ -1,0 +1,31 @@
+.logo{
+    font-family: Raleway;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    color: #2E2F42;
+
+}
+nav{
+    font-family: Roboto;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+
+}
+address{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+
+}
