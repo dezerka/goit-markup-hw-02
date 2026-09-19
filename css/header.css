@@ -1,8 +1,6 @@
-#header a:hover {
+a:hover {
     color: #404BBF;
-}
-#header a:hover {
-    color: #404BBF;
+    font-weight: 500;
 }
 .address a{
     color: #434455;

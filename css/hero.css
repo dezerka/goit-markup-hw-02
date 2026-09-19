@@ -1,4 +1,4 @@
-.hero{ 
+#hero{ 
     background-color: #2E2F42;
 }
 .hero__title{
@@ -17,6 +17,9 @@
     color: #FFFFFF;
 }
 .button:hover{
+    background-color: #404BBF;
+}
+.button:focus{
     background-color: #404BBF;
 }
 
