@@ -1,6 +1,3 @@
-#portfolio p{
-    color : #434455;
-}
-#portfolio h2{
-    text-align: center;
+.portfolio__text {
+    color: #434455;
 }

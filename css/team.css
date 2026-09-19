@@ -1,11 +1,11 @@
-#team{
+.team{
     background-color: #F4F4FD;
     text-align: center;
 }
 
-#team li{
+.team__item{
     background-color: #FFFFFF;
 }
-#team p{
+.team__position{
     color: #434455;
 }

@@ -1,18 +1,19 @@
-#features h3 {
+.features__title {
     font-family: "Roboto";
     font-weight: 500;
     font-style: Medium;
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
-#features p {
+.features__text {
     font-family: "Roboto";
     font-weight: 400;
     font-style: Regular;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
 
 }   

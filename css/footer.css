@@ -1,9 +1,13 @@
 #footer{
     background-color: #2E2F42;
 }
-#footer .logo{
-    color: #FFFFFF;
+.footer__logo{
+    color: #F4f4FD;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
 }
-#footer p{
-    color: #FFFFFF;
+.footer__text{
+    color: #F4f4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
