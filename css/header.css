@@ -3,16 +3,16 @@
     font-style: normal;
     font-weight: 400;
 }
-.nav__link a{
+.nav__links{
     color: #2E2F42;
     font-style: normal;
     font-weight: 500;
 }
-.nav__link a:hover {
+.nav__links:hover {
     color: #404BBF;
     font-style: normal;
 }
-.nav__link a:focus {
+.nav__link:focus {
     color: #404BBF;
     font-style: normal;
 }
